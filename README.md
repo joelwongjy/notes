@@ -1,11 +1,9 @@
 ## Format of interviews
----
 Usually interviews go like this
 1. Resume deep dive
 2. Tech knowledge questions
 3. Coding questions
 ## Resume deep dive
----
 ### Prepare one interesting technical feature to talk about beforehand
 I frequently get questions like "Can you share one time you solved a technical challenge and how you solved it?"
 Usually ideas related to optimisation are good because it shows technical knowledge and measurable impact.
@@ -35,7 +33,6 @@ They love asking follow up tech knowledge questions from what you said you did, 
 3. If new data is being pushed into the database while fetching a paginated page, how do you ensure the records are fetched correctly?
 
 ## Tech Knowledge Questions
----
 
 **Frontend: https://www.greatfrontend.com/questions/quiz**
 
@@ -60,7 +57,6 @@ Focus on these. Will update for iOS.
 If you are interviewing for backend ask me again.
 
 ## Coding Questions
----
 This is all you need https://neetcode.io
 - Do Blind 75 first, ignoring Math & Geometry and Bit Manipulation. Then move on to Neetcode 150.
 - Don't have to manage to solve it. Most of the time I just watch the explanation video and move on.
