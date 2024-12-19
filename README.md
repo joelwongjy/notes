@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/a6qdxrbu
-share_updated: 2024-12-20T02:50:20+08:00
----
 ## Format of interviews
 ---
 Usually interviews go like this
